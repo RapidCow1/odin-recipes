@@ -3,6 +3,7 @@
     font-size: 80px;
     text-align: center;
     font-family: serif;
+    text-decoration-line: underline;
 
 }
 
@@ -11,4 +12,22 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 25px;
+    height: auto;
+    width: 800px;
+}
+
+.content .header {
+    color: rgb(226, 57, 204);
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.content p {
+    color: rgb(255, 115, 0);
+    font-size: large;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration-line: underline;
 }
